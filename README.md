@@ -1,5 +1,5 @@
 # .NET-6-Minimal-API
-Just a small repo to test some new Minimal API functionality from the new .NET 6 release
+Just a small repo to test some new Minimal API functionality from the new .NET 6 release. Inspired by [Nick Chapsas](https://www.youtube.com/c/Elfocrash)' tutorials 
 
 Just look at how small that `Program.cs` is, isn't it cute?
 
