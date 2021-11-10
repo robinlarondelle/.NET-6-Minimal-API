@@ -1,5 +1,5 @@
 ﻿
-namespace ApiDemo.MinimalAPI.Routes
+namespace ApiDemo.MinimalAPI.EndpointDefinitions
 {
     public interface IEndpointDefinition
     {

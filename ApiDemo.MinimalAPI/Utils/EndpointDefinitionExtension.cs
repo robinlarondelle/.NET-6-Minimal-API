@@ -1,4 +1,4 @@
-﻿using ApiDemo.MinimalAPI.Routes;
+﻿using ApiDemo.MinimalAPI.EndpointDefinitions;
 
 namespace ApiDemo.MinimalAPI.Utils;
 
